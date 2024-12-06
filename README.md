@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/mtulasi41/tulasi/blob/c2e2463b016e85cde611ff1536d4edee8368ba0b/devops.png">
+  <img src="https://github.com/mtulasi41/mtulasi41/blob/7442ac55422cae583a98cdd01a154806eaebf250/devops.png">
 </div>
 <h1 align="center">Hi 👋, My name is Tulasi</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
